@@ -1,3 +1,4 @@
 Name,Sex, Address, DOB
 Susmita Sharma, Female, AlumailaChowk, 2050/10/10
 Suwan Babu, Male, Shishuwa, 2050/05/27
+LeoNardo Decarpio, Male, USA, 2054/32/32
